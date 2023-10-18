@@ -1,0 +1,13 @@
+﻿  NavWindow.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\zunderz\Documents\sfml\ConsoleApplication1\ConsoleApplication1\NavWindow.cpp(61,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zunderz\Documents\sfml\ConsoleApplication1\ConsoleApplication1\NavWindow.cpp(61,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\zunderz\Documents\sfml\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
